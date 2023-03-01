@@ -66,3 +66,4 @@ Diagrama pasos crisis management
  ![image](https://user-images.githubusercontent.com/126511159/222240788-41b65c7c-161b-4742-8461-269d5de39e4b.png)
 
 Fuente: https://www.techtarget.com/whatis/definition/crisis-management
+
